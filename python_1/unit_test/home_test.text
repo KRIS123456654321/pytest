@@ -1,0 +1,9 @@
+test_True_1_1 (home.getClass) ... ok
+test_True_1_2 (home.getClass) ... ok
+test_True_1_3 (home.getClass) ... ok
+test_True_1_4 (home.getClass) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.047s
+
+OK

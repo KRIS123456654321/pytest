@@ -1,0 +1,10 @@
+this is a error msg
+this is a critical msg
+2019-05-25 16:48:39,727-ERROR-study_log.py-py15-��־��Ϣ:this is a error msg
+2019-05-25 16:48:39,727-CRITICAL-study_log.py-py15-��־��Ϣ:this is a critical msg
+2019-05-25 16:50:30,165-ERROR-study_log.py-py15-日志信息:this is a error msg
+2019-05-25 16:50:30,166-CRITICAL-study_log.py-py15-日志信息:this is a critical msg
+2019-05-25 17:14:23,743-INFO-study_log.py-py15-日志信息:this is a info msg
+2019-05-25 17:14:23,743-WARNING-study_log.py-py15-日志信息:this is a warning msg
+2019-05-25 17:14:23,744-ERROR-study_log.py-py15-日志信息:this is a error msg
+2019-05-25 17:14:23,744-CRITICAL-study_log.py-py15-日志信息:this is a critical msg

@@ -1,0 +1,617 @@
+2019-10-31 10:23:55,560-log_invest-INFO-投资用例：正常场景-投资成功-[test_pytest_invest.py:26]
+2019-10-31 10:30:01,843-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 10:30:01,843-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 10:30:01,872-log_invest-INFO-开始等待时间点：2019-10-31 10:30:01.843304,结束等待时间点：2019-10-31 10:30:01.871301，等待时长为：0:00:00.027997-[basepage.py:38]
+2019-10-31 10:30:01,872-log_invest-INFO-开始等待时间点：2019-10-31 10:30:01.843304,结束等待时间点：2019-10-31 10:30:01.871301，等待时长为：0:00:00.027997-[basepage.py:38]
+2019-10-31 10:30:01,872-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 10:30:01,872-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 10:30:01,880-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('18684720553',)-[basepage.py:101]
+2019-10-31 10:30:01,880-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('18684720553',)-[basepage.py:101]
+2019-10-31 10:30:01,952-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 10:30:01,952-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 10:30:01,980-log_invest-INFO-开始等待时间点：2019-10-31 10:30:01.952293,结束等待时间点：2019-10-31 10:30:01.980290，等待时长为：0:00:00.027997-[basepage.py:38]
+2019-10-31 10:30:01,980-log_invest-INFO-开始等待时间点：2019-10-31 10:30:01.952293,结束等待时间点：2019-10-31 10:30:01.980290，等待时长为：0:00:00.027997-[basepage.py:38]
+2019-10-31 10:30:01,980-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 10:30:01,980-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 10:30:01,989-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('python',)-[basepage.py:101]
+2019-10-31 10:30:01,989-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('python',)-[basepage.py:101]
+2019-10-31 10:30:02,049-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 10:30:02,049-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 10:30:02,071-log_invest-INFO-开始等待时间点：2019-10-31 10:30:02.049283,结束等待时间点：2019-10-31 10:30:02.071281，等待时长为：0:00:00.021998-[basepage.py:38]
+2019-10-31 10:30:02,071-log_invest-INFO-开始等待时间点：2019-10-31 10:30:02.049283,结束等待时间点：2019-10-31 10:30:02.071281，等待时长为：0:00:00.021998-[basepage.py:38]
+2019-10-31 10:30:02,072-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 10:30:02,072-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 10:30:02,079-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 10:30:02,079-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 10:30:07,145-log_invest-INFO-等待元素('xpath', '//div[@class="b-unit"][1]//div[@class="text-center"]//a')可见-[basepage.py:31]
+2019-10-31 10:30:07,145-log_invest-INFO-等待元素('xpath', '//div[@class="b-unit"][1]//div[@class="text-center"]//a')可见-[basepage.py:31]
+2019-10-31 10:31:20,779-log_invest-INFO-开始等待时间点：2019-10-31 10:30:07.146773,结束等待时间点：2019-10-31 10:31:20.779409，等待时长为：0:01:13.632636-[basepage.py:38]
+2019-10-31 10:31:20,779-log_invest-INFO-开始等待时间点：2019-10-31 10:30:07.146773,结束等待时间点：2019-10-31 10:31:20.779409，等待时长为：0:01:13.632636-[basepage.py:38]
+2019-10-31 10:31:20,780-log_invest-INFO-查找 首页_点击第一个抢投标按钮 中的元素 ('xpath', '//div[@class="b-unit"][1]//div[@class="text-center"]//a')-[basepage.py:54]
+2019-10-31 10:31:20,780-log_invest-INFO-查找 首页_点击第一个抢投标按钮 中的元素 ('xpath', '//div[@class="b-unit"][1]//div[@class="text-center"]//a')-[basepage.py:54]
+2019-10-31 10:31:20,789-log_invest-INFO-点击元素('xpath', '//div[@class="b-unit"][1]//div[@class="text-center"]//a')-[basepage.py:85]
+2019-10-31 10:31:20,789-log_invest-INFO-点击元素('xpath', '//div[@class="b-unit"][1]//div[@class="text-center"]//a')-[basepage.py:85]
+2019-10-31 10:31:44,843-log_invest-INFO-投资用例：正常场景-投资成功-[test_pytest_invest.py:26]
+2019-10-31 10:31:44,843-log_invest-INFO-投资用例：正常场景-投资成功-[test_pytest_invest.py:26]
+2019-10-31 10:31:44,843-log_invest-INFO-等待元素('xpath', '//input[contains(@class,"invest-unit-investinput")]')可见-[basepage.py:31]
+2019-10-31 10:31:44,843-log_invest-INFO-等待元素('xpath', '//input[contains(@class,"invest-unit-investinput")]')可见-[basepage.py:31]
+2019-10-31 10:31:44,886-log_invest-INFO-开始等待时间点：2019-10-31 10:31:44.843003,结束等待时间点：2019-10-31 10:31:44.885998，等待时长为：0:00:00.042995-[basepage.py:38]
+2019-10-31 10:31:44,886-log_invest-INFO-开始等待时间点：2019-10-31 10:31:44.843003,结束等待时间点：2019-10-31 10:31:44.885998，等待时长为：0:00:00.042995-[basepage.py:38]
+2019-10-31 10:31:44,886-log_invest-INFO-查找 标页面_获取用户余额的属性值 中的元素 ('xpath', '//input[contains(@class,"invest-unit-investinput")]')-[basepage.py:54]
+2019-10-31 10:31:44,886-log_invest-INFO-查找 标页面_获取用户余额的属性值 中的元素 ('xpath', '//input[contains(@class,"invest-unit-investinput")]')-[basepage.py:54]
+2019-10-31 10:31:44,913-log_invest-INFO-获取元素('xpath', '//input[contains(@class,"invest-unit-investinput")]')的属性data-amount值为：99958376.42-[basepage.py:118]
+2019-10-31 10:31:44,913-log_invest-INFO-获取元素('xpath', '//input[contains(@class,"invest-unit-investinput")]')的属性data-amount值为：99958376.42-[basepage.py:118]
+2019-10-31 10:31:44,914-log_invest-INFO-等待元素('xpath', '//input[contains(@class,"invest-unit-investinput")]')可见-[basepage.py:31]
+2019-10-31 10:31:44,914-log_invest-INFO-等待元素('xpath', '//input[contains(@class,"invest-unit-investinput")]')可见-[basepage.py:31]
+2019-10-31 10:31:44,937-log_invest-INFO-开始等待时间点：2019-10-31 10:31:44.914995,结束等待时间点：2019-10-31 10:31:44.937993，等待时长为：0:00:00.022998-[basepage.py:38]
+2019-10-31 10:31:44,937-log_invest-INFO-开始等待时间点：2019-10-31 10:31:44.914995,结束等待时间点：2019-10-31 10:31:44.937993，等待时长为：0:00:00.022998-[basepage.py:38]
+2019-10-31 10:31:44,937-log_invest-INFO-查找 标页面_金额输入框 中的元素 ('xpath', '//input[contains(@class,"invest-unit-investinput")]')-[basepage.py:54]
+2019-10-31 10:31:44,937-log_invest-INFO-查找 标页面_金额输入框 中的元素 ('xpath', '//input[contains(@class,"invest-unit-investinput")]')-[basepage.py:54]
+2019-10-31 10:31:44,944-log_invest-INFO-给元素('xpath', '//input[contains(@class,"invest-unit-investinput")]')输入文本内容：(1000,)-[basepage.py:101]
+2019-10-31 10:31:44,944-log_invest-INFO-给元素('xpath', '//input[contains(@class,"invest-unit-investinput")]')输入文本内容：(1000,)-[basepage.py:101]
+2019-10-31 10:31:44,996-log_invest-INFO-等待元素('xpath', '//button[contains(@class,"height_style")]')可见-[basepage.py:31]
+2019-10-31 10:31:44,996-log_invest-INFO-等待元素('xpath', '//button[contains(@class,"height_style")]')可见-[basepage.py:31]
+2019-10-31 10:31:45,023-log_invest-INFO-开始等待时间点：2019-10-31 10:31:44.996987,结束等待时间点：2019-10-31 10:31:45.023984，等待时长为：0:00:00.026997-[basepage.py:38]
+2019-10-31 10:31:45,023-log_invest-INFO-开始等待时间点：2019-10-31 10:31:44.996987,结束等待时间点：2019-10-31 10:31:45.023984，等待时长为：0:00:00.026997-[basepage.py:38]
+2019-10-31 10:31:45,023-log_invest-INFO-查找 标页面_提交投资操作 中的元素 ('xpath', '//button[contains(@class,"height_style")]')-[basepage.py:54]
+2019-10-31 10:31:45,023-log_invest-INFO-查找 标页面_提交投资操作 中的元素 ('xpath', '//button[contains(@class,"height_style")]')-[basepage.py:54]
+2019-10-31 10:31:45,031-log_invest-INFO-点击元素('xpath', '//button[contains(@class,"height_style")]')-[basepage.py:85]
+2019-10-31 10:31:45,031-log_invest-INFO-点击元素('xpath', '//button[contains(@class,"height_style")]')-[basepage.py:85]
+2019-10-31 10:31:45,085-log_invest-INFO-等待元素('xpath', '//div[@class="layui-layer-content"]//button')可见-[basepage.py:31]
+2019-10-31 10:31:45,085-log_invest-INFO-等待元素('xpath', '//div[@class="layui-layer-content"]//button')可见-[basepage.py:31]
+2019-10-31 10:31:45,635-log_invest-INFO-开始等待时间点：2019-10-31 10:31:45.085978,结束等待时间点：2019-10-31 10:31:45.635923，等待时长为：0:00:00.549945-[basepage.py:38]
+2019-10-31 10:31:45,635-log_invest-INFO-开始等待时间点：2019-10-31 10:31:45.085978,结束等待时间点：2019-10-31 10:31:45.635923，等待时长为：0:00:00.549945-[basepage.py:38]
+2019-10-31 10:31:45,635-log_invest-INFO-查找 标页面_投资成功的提示框 中的元素 ('xpath', '//div[@class="layui-layer-content"]//button')-[basepage.py:54]
+2019-10-31 10:31:45,635-log_invest-INFO-查找 标页面_投资成功的提示框 中的元素 ('xpath', '//div[@class="layui-layer-content"]//button')-[basepage.py:54]
+2019-10-31 10:31:45,645-log_invest-INFO-点击元素('xpath', '//div[@class="layui-layer-content"]//button')-[basepage.py:85]
+2019-10-31 10:31:45,645-log_invest-INFO-点击元素('xpath', '//div[@class="layui-layer-content"]//button')-[basepage.py:85]
+2019-10-31 10:32:30,645-log_invest-INFO-等待元素('xpath', '//li[@class="color_sub"]')可见-[basepage.py:31]
+2019-10-31 10:32:30,645-log_invest-INFO-等待元素('xpath', '//li[@class="color_sub"]')可见-[basepage.py:31]
+2019-10-31 10:32:30,683-log_invest-INFO-开始等待时间点：2019-10-31 10:32:30.646422,结束等待时间点：2019-10-31 10:32:30.683418，等待时长为：0:00:00.036996-[basepage.py:38]
+2019-10-31 10:32:30,683-log_invest-INFO-开始等待时间点：2019-10-31 10:32:30.646422,结束等待时间点：2019-10-31 10:32:30.683418，等待时长为：0:00:00.036996-[basepage.py:38]
+2019-10-31 10:32:30,683-log_invest-INFO-查找 标页面_获取总余额的文本值 中的元素 ('xpath', '//li[@class="color_sub"]')-[basepage.py:54]
+2019-10-31 10:32:30,683-log_invest-INFO-查找 标页面_获取总余额的文本值 中的元素 ('xpath', '//li[@class="color_sub"]')-[basepage.py:54]
+2019-10-31 10:32:30,709-log_invest-INFO-获取元素('xpath', '//li[@class="color_sub"]')的文本值为：99957376.42元-[basepage.py:134]
+2019-10-31 10:32:30,709-log_invest-INFO-获取元素('xpath', '//li[@class="color_sub"]')的文本值为：99957376.42元-[basepage.py:134]
+2019-10-31 10:55:12,455-log_invest-INFO-投资用例：正常场景-投资成功11-[test_pytest_invest.py:18]
+2019-10-31 10:55:12,455-log_invest-INFO-投资用例：正常场景-投资成功11-[test_pytest_invest.py:18]
+2019-10-31 16:13:22,238-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,238-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,238-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,238-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,238-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,279-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.239482,结束等待时间点：2019-10-31 16:13:22.279482，等待时长为：0:00:00.040000-[basepage.py:38]
+2019-10-31 16:13:22,279-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.239482,结束等待时间点：2019-10-31 16:13:22.279482，等待时长为：0:00:00.040000-[basepage.py:38]
+2019-10-31 16:13:22,279-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.239482,结束等待时间点：2019-10-31 16:13:22.279482，等待时长为：0:00:00.040000-[basepage.py:38]
+2019-10-31 16:13:22,279-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.239482,结束等待时间点：2019-10-31 16:13:22.279482，等待时长为：0:00:00.040000-[basepage.py:38]
+2019-10-31 16:13:22,279-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.239482,结束等待时间点：2019-10-31 16:13:22.279482，等待时长为：0:00:00.040000-[basepage.py:38]
+2019-10-31 16:13:22,279-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:13:22,279-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:13:22,279-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:13:22,279-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:13:22,279-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:13:22,288-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('18684720553',)-[basepage.py:101]
+2019-10-31 16:13:22,288-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('18684720553',)-[basepage.py:101]
+2019-10-31 16:13:22,288-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('18684720553',)-[basepage.py:101]
+2019-10-31 16:13:22,288-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('18684720553',)-[basepage.py:101]
+2019-10-31 16:13:22,288-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('18684720553',)-[basepage.py:101]
+2019-10-31 16:13:22,383-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,383-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,383-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,383-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,383-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,418-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.384482,结束等待时间点：2019-10-31 16:13:22.418482，等待时长为：0:00:00.034000-[basepage.py:38]
+2019-10-31 16:13:22,418-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.384482,结束等待时间点：2019-10-31 16:13:22.418482，等待时长为：0:00:00.034000-[basepage.py:38]
+2019-10-31 16:13:22,418-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.384482,结束等待时间点：2019-10-31 16:13:22.418482，等待时长为：0:00:00.034000-[basepage.py:38]
+2019-10-31 16:13:22,418-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.384482,结束等待时间点：2019-10-31 16:13:22.418482，等待时长为：0:00:00.034000-[basepage.py:38]
+2019-10-31 16:13:22,418-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.384482,结束等待时间点：2019-10-31 16:13:22.418482，等待时长为：0:00:00.034000-[basepage.py:38]
+2019-10-31 16:13:22,419-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:13:22,419-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:13:22,419-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:13:22,419-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:13:22,419-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:13:22,428-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:13:22,428-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:13:22,428-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:13:22,428-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:13:22,428-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:13:22,478-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:13:22,478-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:13:22,478-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:13:22,478-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:13:22,478-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:13:22,500-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.479482,结束等待时间点：2019-10-31 16:13:22.500482，等待时长为：0:00:00.021000-[basepage.py:38]
+2019-10-31 16:13:22,500-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.479482,结束等待时间点：2019-10-31 16:13:22.500482，等待时长为：0:00:00.021000-[basepage.py:38]
+2019-10-31 16:13:22,500-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.479482,结束等待时间点：2019-10-31 16:13:22.500482，等待时长为：0:00:00.021000-[basepage.py:38]
+2019-10-31 16:13:22,500-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.479482,结束等待时间点：2019-10-31 16:13:22.500482，等待时长为：0:00:00.021000-[basepage.py:38]
+2019-10-31 16:13:22,500-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.479482,结束等待时间点：2019-10-31 16:13:22.500482，等待时长为：0:00:00.021000-[basepage.py:38]
+2019-10-31 16:13:22,500-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:13:22,500-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:13:22,500-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:13:22,500-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:13:22,500-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:13:22,506-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:13:22,506-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:13:22,506-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:13:22,506-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:13:22,506-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:13:22,553-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,553-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,553-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,553-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,553-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,577-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.553482,结束等待时间点：2019-10-31 16:13:22.577482，等待时长为：0:00:00.024000-[basepage.py:38]
+2019-10-31 16:13:22,577-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.553482,结束等待时间点：2019-10-31 16:13:22.577482，等待时长为：0:00:00.024000-[basepage.py:38]
+2019-10-31 16:13:22,577-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.553482,结束等待时间点：2019-10-31 16:13:22.577482，等待时长为：0:00:00.024000-[basepage.py:38]
+2019-10-31 16:13:22,577-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.553482,结束等待时间点：2019-10-31 16:13:22.577482，等待时长为：0:00:00.024000-[basepage.py:38]
+2019-10-31 16:13:22,577-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.553482,结束等待时间点：2019-10-31 16:13:22.577482，等待时长为：0:00:00.024000-[basepage.py:38]
+2019-10-31 16:13:22,578-log_invest-INFO-查找 登录页面_表单区域错误信息 中的元素 ('xpath', '//div[@class="form-error-info"]')-[basepage.py:54]
+2019-10-31 16:13:22,578-log_invest-INFO-查找 登录页面_表单区域错误信息 中的元素 ('xpath', '//div[@class="form-error-info"]')-[basepage.py:54]
+2019-10-31 16:13:22,578-log_invest-INFO-查找 登录页面_表单区域错误信息 中的元素 ('xpath', '//div[@class="form-error-info"]')-[basepage.py:54]
+2019-10-31 16:13:22,578-log_invest-INFO-查找 登录页面_表单区域错误信息 中的元素 ('xpath', '//div[@class="form-error-info"]')-[basepage.py:54]
+2019-10-31 16:13:22,578-log_invest-INFO-查找 登录页面_表单区域错误信息 中的元素 ('xpath', '//div[@class="form-error-info"]')-[basepage.py:54]
+2019-10-31 16:13:22,602-log_invest-INFO-获取元素('xpath', '//div[@class="form-error-info"]')的文本值为：请输入密码-[basepage.py:134]
+2019-10-31 16:13:22,602-log_invest-INFO-获取元素('xpath', '//div[@class="form-error-info"]')的文本值为：请输入密码-[basepage.py:134]
+2019-10-31 16:13:22,602-log_invest-INFO-获取元素('xpath', '//div[@class="form-error-info"]')的文本值为：请输入密码-[basepage.py:134]
+2019-10-31 16:13:22,602-log_invest-INFO-获取元素('xpath', '//div[@class="form-error-info"]')的文本值为：请输入密码-[basepage.py:134]
+2019-10-31 16:13:22,602-log_invest-INFO-获取元素('xpath', '//div[@class="form-error-info"]')的文本值为：请输入密码-[basepage.py:134]
+2019-10-31 16:13:22,604-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,604-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,604-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,604-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,604-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,631-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.605482,结束等待时间点：2019-10-31 16:13:22.631482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:13:22,631-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.605482,结束等待时间点：2019-10-31 16:13:22.631482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:13:22,631-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.605482,结束等待时间点：2019-10-31 16:13:22.631482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:13:22,631-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.605482,结束等待时间点：2019-10-31 16:13:22.631482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:13:22,631-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.605482,结束等待时间点：2019-10-31 16:13:22.631482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:13:22,631-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:13:22,631-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:13:22,631-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:13:22,631-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:13:22,631-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:13:22,641-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:13:22,641-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:13:22,641-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:13:22,641-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:13:22,641-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:13:22,669-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,669-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,669-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,669-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,669-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,705-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.670482,结束等待时间点：2019-10-31 16:13:22.705482，等待时长为：0:00:00.035000-[basepage.py:38]
+2019-10-31 16:13:22,705-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.670482,结束等待时间点：2019-10-31 16:13:22.705482，等待时长为：0:00:00.035000-[basepage.py:38]
+2019-10-31 16:13:22,705-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.670482,结束等待时间点：2019-10-31 16:13:22.705482，等待时长为：0:00:00.035000-[basepage.py:38]
+2019-10-31 16:13:22,705-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.670482,结束等待时间点：2019-10-31 16:13:22.705482，等待时长为：0:00:00.035000-[basepage.py:38]
+2019-10-31 16:13:22,705-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.670482,结束等待时间点：2019-10-31 16:13:22.705482，等待时长为：0:00:00.035000-[basepage.py:38]
+2019-10-31 16:13:22,706-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:13:22,706-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:13:22,706-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:13:22,706-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:13:22,706-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:13:22,720-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('python',)-[basepage.py:101]
+2019-10-31 16:13:22,720-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('python',)-[basepage.py:101]
+2019-10-31 16:13:22,720-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('python',)-[basepage.py:101]
+2019-10-31 16:13:22,720-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('python',)-[basepage.py:101]
+2019-10-31 16:13:22,720-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('python',)-[basepage.py:101]
+2019-10-31 16:13:22,790-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:13:22,790-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:13:22,790-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:13:22,790-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:13:22,790-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:13:22,820-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.791482,结束等待时间点：2019-10-31 16:13:22.820482，等待时长为：0:00:00.029000-[basepage.py:38]
+2019-10-31 16:13:22,820-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.791482,结束等待时间点：2019-10-31 16:13:22.820482，等待时长为：0:00:00.029000-[basepage.py:38]
+2019-10-31 16:13:22,820-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.791482,结束等待时间点：2019-10-31 16:13:22.820482，等待时长为：0:00:00.029000-[basepage.py:38]
+2019-10-31 16:13:22,820-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.791482,结束等待时间点：2019-10-31 16:13:22.820482，等待时长为：0:00:00.029000-[basepage.py:38]
+2019-10-31 16:13:22,820-log_invest-INFO-开始等待时间点：2019-10-31 16:13:22.791482,结束等待时间点：2019-10-31 16:13:22.820482，等待时长为：0:00:00.029000-[basepage.py:38]
+2019-10-31 16:13:22,821-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:13:22,821-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:13:22,821-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:13:22,821-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:13:22,821-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:13:22,842-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:13:22,842-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:13:22,842-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:13:22,842-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:13:22,842-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:13:22,961-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,961-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,961-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,961-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:13:22,961-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:13:56,898-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=77.0.3865.90)
+
+2019-10-31 16:13:56,898-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=77.0.3865.90)
+
+2019-10-31 16:13:56,898-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=77.0.3865.90)
+
+2019-10-31 16:13:56,898-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=77.0.3865.90)
+
+2019-10-31 16:13:56,898-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=77.0.3865.90)
+
+2019-10-31 16:14:05,962-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:05,962-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:05,962-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:05,962-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:05,962-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:05,998-log_invest-INFO-开始等待时间点：2019-10-31 16:14:05.963482,结束等待时间点：2019-10-31 16:14:05.998482，等待时长为：0:00:00.035000-[basepage.py:38]
+2019-10-31 16:14:05,998-log_invest-INFO-开始等待时间点：2019-10-31 16:14:05.963482,结束等待时间点：2019-10-31 16:14:05.998482，等待时长为：0:00:00.035000-[basepage.py:38]
+2019-10-31 16:14:05,998-log_invest-INFO-开始等待时间点：2019-10-31 16:14:05.963482,结束等待时间点：2019-10-31 16:14:05.998482，等待时长为：0:00:00.035000-[basepage.py:38]
+2019-10-31 16:14:05,998-log_invest-INFO-开始等待时间点：2019-10-31 16:14:05.963482,结束等待时间点：2019-10-31 16:14:05.998482，等待时长为：0:00:00.035000-[basepage.py:38]
+2019-10-31 16:14:05,998-log_invest-INFO-开始等待时间点：2019-10-31 16:14:05.963482,结束等待时间点：2019-10-31 16:14:05.998482，等待时长为：0:00:00.035000-[basepage.py:38]
+2019-10-31 16:14:05,998-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:14:05,998-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:14:05,998-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:14:05,998-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:14:05,998-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:14:06,006-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('18684720553',)-[basepage.py:101]
+2019-10-31 16:14:06,006-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('18684720553',)-[basepage.py:101]
+2019-10-31 16:14:06,006-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('18684720553',)-[basepage.py:101]
+2019-10-31 16:14:06,006-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('18684720553',)-[basepage.py:101]
+2019-10-31 16:14:06,006-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('18684720553',)-[basepage.py:101]
+2019-10-31 16:14:06,078-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,078-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,078-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,078-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,078-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,106-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.079482,结束等待时间点：2019-10-31 16:14:06.106482，等待时长为：0:00:00.027000-[basepage.py:38]
+2019-10-31 16:14:06,106-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.079482,结束等待时间点：2019-10-31 16:14:06.106482，等待时长为：0:00:00.027000-[basepage.py:38]
+2019-10-31 16:14:06,106-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.079482,结束等待时间点：2019-10-31 16:14:06.106482，等待时长为：0:00:00.027000-[basepage.py:38]
+2019-10-31 16:14:06,106-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.079482,结束等待时间点：2019-10-31 16:14:06.106482，等待时长为：0:00:00.027000-[basepage.py:38]
+2019-10-31 16:14:06,106-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.079482,结束等待时间点：2019-10-31 16:14:06.106482，等待时长为：0:00:00.027000-[basepage.py:38]
+2019-10-31 16:14:06,106-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:14:06,106-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:14:06,106-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:14:06,106-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:14:06,106-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:14:06,115-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:14:06,115-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:14:06,115-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:14:06,115-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:14:06,115-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:14:06,157-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:14:06,157-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:14:06,157-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:14:06,157-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:14:06,157-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:14:06,183-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.157482,结束等待时间点：2019-10-31 16:14:06.183482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:14:06,183-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.157482,结束等待时间点：2019-10-31 16:14:06.183482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:14:06,183-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.157482,结束等待时间点：2019-10-31 16:14:06.183482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:14:06,183-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.157482,结束等待时间点：2019-10-31 16:14:06.183482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:14:06,183-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.157482,结束等待时间点：2019-10-31 16:14:06.183482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:14:06,183-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:14:06,183-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:14:06,183-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:14:06,183-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:14:06,183-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:14:06,193-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:14:06,193-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:14:06,193-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:14:06,193-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:14:06,193-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:14:06,255-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,255-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,255-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,255-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,255-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,282-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.256482,结束等待时间点：2019-10-31 16:14:06.282482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:14:06,282-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.256482,结束等待时间点：2019-10-31 16:14:06.282482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:14:06,282-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.256482,结束等待时间点：2019-10-31 16:14:06.282482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:14:06,282-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.256482,结束等待时间点：2019-10-31 16:14:06.282482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:14:06,282-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.256482,结束等待时间点：2019-10-31 16:14:06.282482，等待时长为：0:00:00.026000-[basepage.py:38]
+2019-10-31 16:14:06,283-log_invest-INFO-查找 登录页面_表单区域错误信息 中的元素 ('xpath', '//div[@class="form-error-info"]')-[basepage.py:54]
+2019-10-31 16:14:06,283-log_invest-INFO-查找 登录页面_表单区域错误信息 中的元素 ('xpath', '//div[@class="form-error-info"]')-[basepage.py:54]
+2019-10-31 16:14:06,283-log_invest-INFO-查找 登录页面_表单区域错误信息 中的元素 ('xpath', '//div[@class="form-error-info"]')-[basepage.py:54]
+2019-10-31 16:14:06,283-log_invest-INFO-查找 登录页面_表单区域错误信息 中的元素 ('xpath', '//div[@class="form-error-info"]')-[basepage.py:54]
+2019-10-31 16:14:06,283-log_invest-INFO-查找 登录页面_表单区域错误信息 中的元素 ('xpath', '//div[@class="form-error-info"]')-[basepage.py:54]
+2019-10-31 16:14:06,309-log_invest-INFO-获取元素('xpath', '//div[@class="form-error-info"]')的文本值为：请输入密码-[basepage.py:134]
+2019-10-31 16:14:06,309-log_invest-INFO-获取元素('xpath', '//div[@class="form-error-info"]')的文本值为：请输入密码-[basepage.py:134]
+2019-10-31 16:14:06,309-log_invest-INFO-获取元素('xpath', '//div[@class="form-error-info"]')的文本值为：请输入密码-[basepage.py:134]
+2019-10-31 16:14:06,309-log_invest-INFO-获取元素('xpath', '//div[@class="form-error-info"]')的文本值为：请输入密码-[basepage.py:134]
+2019-10-31 16:14:06,309-log_invest-INFO-获取元素('xpath', '//div[@class="form-error-info"]')的文本值为：请输入密码-[basepage.py:134]
+2019-10-31 16:14:06,311-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,311-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,311-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,311-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,311-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,332-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.312482,结束等待时间点：2019-10-31 16:14:06.332482，等待时长为：0:00:00.020000-[basepage.py:38]
+2019-10-31 16:14:06,332-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.312482,结束等待时间点：2019-10-31 16:14:06.332482，等待时长为：0:00:00.020000-[basepage.py:38]
+2019-10-31 16:14:06,332-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.312482,结束等待时间点：2019-10-31 16:14:06.332482，等待时长为：0:00:00.020000-[basepage.py:38]
+2019-10-31 16:14:06,332-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.312482,结束等待时间点：2019-10-31 16:14:06.332482，等待时长为：0:00:00.020000-[basepage.py:38]
+2019-10-31 16:14:06,332-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.312482,结束等待时间点：2019-10-31 16:14:06.332482，等待时长为：0:00:00.020000-[basepage.py:38]
+2019-10-31 16:14:06,333-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:14:06,333-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:14:06,333-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:14:06,333-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:14:06,333-log_invest-INFO-查找 登录页面_输入用户名 中的元素 ('xpath', '//input[@name="phone"]')-[basepage.py:54]
+2019-10-31 16:14:06,346-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:14:06,346-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:14:06,346-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:14:06,346-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:14:06,346-log_invest-INFO-给元素('xpath', '//input[@name="phone"]')输入文本内容：('',)-[basepage.py:101]
+2019-10-31 16:14:06,380-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,380-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,380-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,380-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,380-log_invest-INFO-等待元素('xpath', '//input[@name="password"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,404-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.381482,结束等待时间点：2019-10-31 16:14:06.404482，等待时长为：0:00:00.023000-[basepage.py:38]
+2019-10-31 16:14:06,404-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.381482,结束等待时间点：2019-10-31 16:14:06.404482，等待时长为：0:00:00.023000-[basepage.py:38]
+2019-10-31 16:14:06,404-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.381482,结束等待时间点：2019-10-31 16:14:06.404482，等待时长为：0:00:00.023000-[basepage.py:38]
+2019-10-31 16:14:06,404-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.381482,结束等待时间点：2019-10-31 16:14:06.404482，等待时长为：0:00:00.023000-[basepage.py:38]
+2019-10-31 16:14:06,404-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.381482,结束等待时间点：2019-10-31 16:14:06.404482，等待时长为：0:00:00.023000-[basepage.py:38]
+2019-10-31 16:14:06,405-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:14:06,405-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:14:06,405-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:14:06,405-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:14:06,405-log_invest-INFO-查找 登录页面_输入密码 中的元素 ('xpath', '//input[@name="password"]')-[basepage.py:54]
+2019-10-31 16:14:06,417-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('python',)-[basepage.py:101]
+2019-10-31 16:14:06,417-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('python',)-[basepage.py:101]
+2019-10-31 16:14:06,417-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('python',)-[basepage.py:101]
+2019-10-31 16:14:06,417-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('python',)-[basepage.py:101]
+2019-10-31 16:14:06,417-log_invest-INFO-给元素('xpath', '//input[@name="password"]')输入文本内容：('python',)-[basepage.py:101]
+2019-10-31 16:14:06,469-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:14:06,469-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:14:06,469-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:14:06,469-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:14:06,469-log_invest-INFO-等待元素('tag name', 'button')可见-[basepage.py:31]
+2019-10-31 16:14:06,487-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.469482,结束等待时间点：2019-10-31 16:14:06.487482，等待时长为：0:00:00.018000-[basepage.py:38]
+2019-10-31 16:14:06,487-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.469482,结束等待时间点：2019-10-31 16:14:06.487482，等待时长为：0:00:00.018000-[basepage.py:38]
+2019-10-31 16:14:06,487-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.469482,结束等待时间点：2019-10-31 16:14:06.487482，等待时长为：0:00:00.018000-[basepage.py:38]
+2019-10-31 16:14:06,487-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.469482,结束等待时间点：2019-10-31 16:14:06.487482，等待时长为：0:00:00.018000-[basepage.py:38]
+2019-10-31 16:14:06,487-log_invest-INFO-开始等待时间点：2019-10-31 16:14:06.469482,结束等待时间点：2019-10-31 16:14:06.487482，等待时长为：0:00:00.018000-[basepage.py:38]
+2019-10-31 16:14:06,487-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:14:06,487-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:14:06,487-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:14:06,487-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:14:06,487-log_invest-INFO-查找 登录页面_点击登录按钮 中的元素 ('tag name', 'button')-[basepage.py:54]
+2019-10-31 16:14:06,495-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:14:06,495-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:14:06,495-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:14:06,495-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:14:06,495-log_invest-INFO-点击元素('tag name', 'button')-[basepage.py:85]
+2019-10-31 16:14:06,534-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,534-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,534-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,534-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:14:06,534-log_invest-INFO-等待元素('xpath', '//div[@class="form-error-info"]')可见-[basepage.py:31]
+2019-10-31 16:14:36,611-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:14:36,611-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:14:36,611-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:14:36,611-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:14:36,611-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:14:37,026-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_表单区域错误信息_2019-10-31 16-14-36.png-[basepage.py:151]
+2019-10-31 16:14:37,026-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_表单区域错误信息_2019-10-31 16-14-36.png-[basepage.py:151]
+2019-10-31 16:14:37,026-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_表单区域错误信息_2019-10-31 16-14-36.png-[basepage.py:151]
+2019-10-31 16:14:37,026-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_表单区域错误信息_2019-10-31 16-14-36.png-[basepage.py:151]
+2019-10-31 16:14:37,026-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_表单区域错误信息_2019-10-31 16-14-36.png-[basepage.py:151]
+2019-10-31 16:14:37,087-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:37,087-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:37,087-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:37,087-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:14:37,087-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:15:07,299-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:15:07,299-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:15:07,299-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:15:07,299-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:15:07,299-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:15:07,716-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_输入用户名_2019-10-31 16-15-07.png-[basepage.py:151]
+2019-10-31 16:15:07,716-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_输入用户名_2019-10-31 16-15-07.png-[basepage.py:151]
+2019-10-31 16:15:07,716-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_输入用户名_2019-10-31 16-15-07.png-[basepage.py:151]
+2019-10-31 16:15:07,716-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_输入用户名_2019-10-31 16-15-07.png-[basepage.py:151]
+2019-10-31 16:15:07,716-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_输入用户名_2019-10-31 16-15-07.png-[basepage.py:151]
+2019-10-31 16:15:07,729-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:15:07,729-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:15:07,729-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:15:07,729-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:15:07,729-log_invest-INFO-等待元素('xpath', '//input[@name="phone"]')可见-[basepage.py:31]
+2019-10-31 16:15:37,975-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:15:37,975-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:15:37,975-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:15:37,975-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:15:37,975-log_invest-ERROR-等待元素可见失败：-[basepage.py:41]
+Traceback (most recent call last):
+  File "D:\file\python\python_1\selenium_project\PO_V1\Common\basepage.py", line 35, in wait_eleVisible
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "D:\file\python\untitled1\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2019-10-31 16:15:38,422-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_输入用户名_2019-10-31 16-15-37.png-[basepage.py:151]
+2019-10-31 16:15:38,422-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_输入用户名_2019-10-31 16-15-37.png-[basepage.py:151]
+2019-10-31 16:15:38,422-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_输入用户名_2019-10-31 16-15-37.png-[basepage.py:151]
+2019-10-31 16:15:38,422-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_输入用户名_2019-10-31 16-15-37.png-[basepage.py:151]
+2019-10-31 16:15:38,422-log_invest-INFO-网页截图成功，图片存储在：D:\file\python\python_1\selenium_project\PO_V1\Outputs\screenshots/登录页面_输入用户名_2019-10-31 16-15-37.png-[basepage.py:151]
