@@ -7,10 +7,9 @@
 import pytest
 
 if __name__ == '__main__':
-    pytest.main(["-v","-s","-m","pytest_login_smoke","--alluredir=Outputs/allure_report"])
+    # pytest.main(["-v","-s","-m","pytest_login_smoke","--alluredir=Outputs/allure_report"])
     # pytest.main(["-v","-s","-m","pytest_login_smoke","--html=Outputs/reports/pytest_run_report.html"])
-    # pytest.main(["-v", "-s", "-m", "pytest_invest_smoke"])
-
+    pytest.main(["-v", "-s", "-m", "pytest_invest_smoke"])
 
 
 

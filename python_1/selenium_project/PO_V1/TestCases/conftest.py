@@ -42,15 +42,17 @@ from selenium_project.PO_V1.PageObjects.bid_page import BidPage
 import pytest
 import logging
 
-driver=None # 设置全局变量，方便其他方法使用driver
+# driver=None # 设置全局变量，方便其他方法使用driver
 
 # fixture的定义，如果有返回值，那么写在yield后面
 # 在测试用例中，调用有返回值的fixture函数时，函数名称就是代表返回值，如下面的函数名称open_url就是返回值
 # 在测试用例中，函数名称作为用例的参数即可
+
 # class级别，相当于unittest中的setUpClass、tearDownClass功能
-@pytest.fixture # 不打括号，默认就是function
+# 登录测试用例的前置后置
+@pytest.fixture(scope="class") # 不打括号，默认就是function
 def open_url():
-    global driver # 修改driver的值，要加上global
+    # global driver # 修改driver的值，要加上global
     # 前置
     driver=webdriver.Chrome()
     driver.maximize_window()  # 窗口最大化
@@ -64,31 +66,34 @@ def open_url():
 # @pytest.mark.usefixtures("函数名称")
 
 # class级别，相当于unittest中的setUpClass、tearDownClass功能
+# 加标测试用例的前置后置
 @pytest.fixture(scope="class")
-def invest_fixture():
-    global driver  # 修改driver的值，要加上global
+def invest_fixture(open_url):
+    # global driver  # 修改driver的值，要加上global
     # 初始化浏览器会话
     logging.info("用例类前置：初始化浏览器，登录前程贷系统")
     # 打开浏览器
-    driver = webdriver.Chrome()
-    driver.maximize_window()  # 窗口最大化
-    driver.get(cd.web_login_url)
+    # driver = webdriver.Chrome()
+    # driver.maximize_window()  # 窗口最大化
+    # driver.get(cd.web_login_url)
     # 登录成功
-    LoginPage(driver).login(cd.user,cd.passwd)
+    LoginPage(open_url).login(cd.user,cd.passwd)
     # 首页选择第一个投标
-    IndexPage(driver).click_invest_button()
-    bid_page=BidPage(driver)
-    yield (driver,bid_page)
+    IndexPage(open_url).click_invest_button()
+    bid_page=BidPage(open_url)
+    yield (open_url,bid_page)
     logging.info("用例类后置：关闭浏览器，清理环境")
     # 关闭浏览器
-    driver.quit()
+    open_url.quit()
 
 # 刷新页面-需要用到前面方法中的driver
 # 用例级别，相当于unittest中的setUp、tearDown功能
+# 加标、登录测试用例都用到的前置后置
 @pytest.fixture
-def refresh_page():
+def refresh_page(open_url):
     yield
-    driver.refresh()
+    # driver.refresh()
+    open_url.refresh()
 
 # # session级别,不需要引用，会自动执行
 @pytest.fixture(scope="session")
